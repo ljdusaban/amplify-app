@@ -15,8 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Welcome to Amplify!
         </a>
+        <p>Leo John Dusaban - n12403202</p>
       </header>
     </div>
   );
